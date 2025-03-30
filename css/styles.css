@@ -407,12 +407,16 @@ align-items: center;
     padding: 100px 0;
    
 }
+.footer .container {
+    display: flex;
+     align-items: baseline;
+}
 .footer-wrap {
     display: flex;
     align-items: baseline;
 }
 .footer-container {
-margin-right: 120px;
+    margin-right: 120px;
 }
 .footer-link {
     font-family: "Raleway", sans-serif;
